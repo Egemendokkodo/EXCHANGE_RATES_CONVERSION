@@ -10,7 +10,7 @@ EN
 I wrote a program that converts any currency you want to the currency you choose and converts any amount of money you want.
 In the program, I used the api that I got from the exchangereates-api site.
 I used the python language in this program, and I added the requests and json libraries as libraries.
-I deleted my api key for security concerns, if you want to see the how it works, i left a screenshot
+I deleted my api key for security concerns, if you're just here to get ideas, I've shared a screenshot for you.
  
  
  
