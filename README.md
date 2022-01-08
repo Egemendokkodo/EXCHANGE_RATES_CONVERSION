@@ -1,4 +1,4 @@
-# EXCHANGE_RATES_CONVERSION
+# EXCHANGE_RATES_CONVERSION_APP
 <TR>
  İstediğiniz bir dövüz kurunu ve yine sizin seçtiğiniz kura dönüştüren ve istediğiniz miktarda parayı dönüştüren bir program yazdım. 
  Programda exchangereates-api sitesinden aldığım api'ı kullandım.
